@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Dive Supervisor Board",
+  "short_name": "Dive Board",
+  "description": "Dive supervisor paperwork and timing board prototype",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06121b",
+  "theme_color": "#06121b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
